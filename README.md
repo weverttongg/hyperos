@@ -49,6 +49,3 @@ Este repositório serve para centralizar informações e discussões sobre o Xia
 # HyperOS
 pasta do drive com arquivos:
 https://drive.google.com/drive/folders/104t3sGkOK9ooFLJEoFvjd1xj15SBjPZZ?usp=drive_link
-
-# ETB
-https://drive.google.com/drive/folders/14DebJHbqJOTjyecNOyMz4M4P6TeQB88E
